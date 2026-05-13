@@ -2,7 +2,7 @@ This repository contains Python code and data used to:
 
 + Predict crop yields using machine‑learning models
 + Analyse environmental and weather features
-+ Provide estimated yields for different crops under Low, Medium, and High input conditions
++ Provide estimated yields for different crops under Low, Medium, and High yields
 + Support a simple app/website interface
 
 Main Files
