@@ -18,7 +18,7 @@ Main Files
 
 Running the Project
 1. Download all the files
-2. intall all dependicies
+2. install all dependencies
 3. Run the main script
 4. launch the app using
 
